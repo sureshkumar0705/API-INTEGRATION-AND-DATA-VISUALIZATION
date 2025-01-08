@@ -100,9 +100,6 @@ This project is licensed under the MIT License.
 
 Data provided by the IBM Developer Skills Network.
 
-```
-
-Replace the "link-to-your-screenshot" placeholders with links to actual screenshots of your app if available. Update the repository URL and license as needed.
 
 
 
