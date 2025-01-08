@@ -85,13 +85,6 @@ pip install dash plotly pandas
 - **Visualizations**: 
   - Bar, line, pie, choropleth map, and treemap charts
 
-## Example Screenshots
-
-- Performance Report:
-  ![Performance Report Screenshot](link-to-your-screenshot)
-
-- Delay Report:
-  ![Delay Report Screenshot](link-to-your-screenshot)
 
 ## Contributing
 
