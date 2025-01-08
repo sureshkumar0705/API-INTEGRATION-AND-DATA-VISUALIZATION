@@ -65,10 +65,17 @@ pip install dash plotly pandas
    http://127.0.0.1:8050/
    ```
 
+
 ## Project Structure
 
 - **`app.py`**: Main application file containing the dashboard logic.
 - **Data**: Data is fetched directly from the source URL at runtime.
+
+
+## Project output
+[Project Output.pdf](https://github.com/user-attachments/files/18339880/Project.Output.pdf)
+
+
 
 ## Key Components
 
